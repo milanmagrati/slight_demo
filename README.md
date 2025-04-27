@@ -1,2 +1,3 @@
 # slight_demo
-this is my first git repository
+this is my first git repository.
+Author - Milan Magrati
